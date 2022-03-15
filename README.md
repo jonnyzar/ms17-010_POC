@@ -1,4 +1,7 @@
 # ms17-010_POC
+
+Supports: win 7 and + (no XP!)
+
 ms17-010 POC for python3
 
 42031 from searchsploit
